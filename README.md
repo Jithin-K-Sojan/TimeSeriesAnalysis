@@ -7,4 +7,4 @@ After obtaining clusters, the crop yields of each of the clusters were predicted
 
 tslearn is the library used for time series analysis.
 
-For furhter details and to see the results of the run, look at the docx file in the folder.
+For furhter details and to see the results of the run, look at the docx file in the TimeSeriesAnalysis-NC94 directory.
